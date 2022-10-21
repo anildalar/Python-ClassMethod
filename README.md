@@ -1,0 +1,2 @@
+# Python-ClassMethod
+Python ClassMethod
